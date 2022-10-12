@@ -9,6 +9,7 @@ echo SCRIPTS :
 echo saving_reminter_tool will be launched
 echo --------------------------------------------------------------------------------------------
 
+:: add a comment just for change testing
 
 :: houdini path
 set houdini="C:\Program Files\Side Effects Software\Houdini 19.5.303\bin\houdinifx.exe"
