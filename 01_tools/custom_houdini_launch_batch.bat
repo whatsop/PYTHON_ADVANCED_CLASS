@@ -15,6 +15,8 @@ set houdini="C:\Program Files\Side Effects Software\Houdini 19.5.303\bin\houdini
 
 :: scrips variables
 set saving_reminder_tool=D:\PYTHON_ADVANCED_COURSE\tools\saving_reminder_tool\main.py
+
+:: defining options for houdini interface
 set desktop_name=__AK__
 
 
